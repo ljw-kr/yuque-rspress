@@ -1,0 +1,23 @@
+{
+  "name": "rspress-doc-template",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "rspress dev",
+    "dev": "rspress dev",
+    "build": "rspress build",
+    "preview": "rspress preview",
+    "elog:sync": "elog sync --disable-cache",
+    "elog:sync-local": "elog sync -e .elog.env --disable-cache",
+    "elog:clean": "elog clean"
+  },
+  "dependencies": {
+    "rspress": "^1.29.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4",
+    "@elog/cli": "^0.14.2"
+  }
+}

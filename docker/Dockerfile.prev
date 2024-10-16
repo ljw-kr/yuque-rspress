@@ -1,0 +1,16 @@
+ARG AGENT_NGINX_IMAGE
+ARG AGENT_HOST
+
+# server阶段仅获取nginx
+FROM ${AGENT_NGINX_IMAGE} AS server
+
+# install阶段全量安装npm包
+FROM ${AGENT_HOST}/node:18.20.0-alpine AS modules
+ADD ./package.json /mnt/project/
+# 使用 package-lock 确保远程安装与本地开发目录结构一样
+ADD ./package-lock.json /mnt/project/
+ADD ./.npmrc /mnt/project/
+WORKDIR /mnt/project
+RUN npm ci
+RUN npm i @rspack/binding-linux-x64-musl
+RUN npm i @rspress/mdx-rs-linux-x64-musl

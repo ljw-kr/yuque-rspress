@@ -1,0 +1,1025 @@
+{
+  "docs": [
+    {
+      "id": 182219709,
+      "doc_id": "sff2ciq0f0kar0ik",
+      "updated": 1729070456000,
+      "properties": {
+        "title": "Uptime Kuma",
+        "urlname": "sff2ciq0f0kar0ik",
+        "date": "2024-08-14 16:10:18",
+        "updated": "2024-10-16 17:20:56",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/930590/1723624996044-58dcaa43-b8f3-4345-92f7-41eade873366.png",
+        "description": "Uptime Kuma 是一款开源自托管的轻量级监控工具，拥有简洁美观的界面和丰富的告警方式。可以将 Uptime Kuma中的告警接入到 AI Ops中，让您更快定位和解决问题。配置步骤在资产管理-告警源集成 添加Uptime Kuma应用， 填写应用名称，开启相关配置后，点击保存生成app..."
+      },
+      "catalog": [
+        {
+          "title": "告警使用手册",
+          "doc_id": "sff2ciq0f0kar0ik"
+        },
+        {
+          "title": "告警源集成说明",
+          "doc_id": "sff2ciq0f0kar0ik"
+        }
+      ],
+      "realName": "Uptime Kuma",
+      "relativePath": "\\告警使用手册\\告警源集成说明\\Uptime Kuma.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\告警使用手册\\告警源集成说明"
+    },
+    {
+      "id": 184037924,
+      "doc_id": "vrv9bohi6q5gsok3",
+      "updated": 1729071458000,
+      "properties": {
+        "title": "告警管理使用手册",
+        "urlname": "vrv9bohi6q5gsok3",
+        "date": "2024-08-27 17:09:35",
+        "updated": "2024-10-16 17:37:38",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/930590/1724754138752-ce7763fe-1a9a-4185-9992-5606c4e26762.png",
+        "description": "概述本手册旨在介绍如何使用智能告警模块下的告警管理功能，包括查看，处理，关闭，转交告警，告警分派策略配置以及告警处理 TimeLine 功能。 查看告警告警列表在我的告警列表中，您可以看到待处理、处理中和已关闭三种类型的告警。如果你是管理员，在所有告警列表中可以看到未分配类型的告警数据，未分配..."
+      },
+      "catalog": [
+        {
+          "title": "告警使用手册",
+          "doc_id": "vrv9bohi6q5gsok3"
+        }
+      ],
+      "realName": "告警管理使用手册",
+      "relativePath": "\\告警使用手册\\告警管理使用手册.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\告警使用手册"
+    },
+    {
+      "id": 182219410,
+      "doc_id": "olhr7mne717k5iw3",
+      "updated": 1729070373000,
+      "properties": {
+        "title": "Zabbix",
+        "urlname": "olhr7mne717k5iw3",
+        "date": "2024-08-14 16:09:10",
+        "updated": "2024-10-16 17:19:33",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/43776455/1725443526196-2861fbf9-90ad-4ca1-a81e-b9d0e7e9193f.png",
+        "description": "Zabbix 提供了一个网络和应用监控的开源解决方案，它支持数百万的监控指标。安装 Zabbix 应用可以将 Zabbix 中的告警接入到 AI Ops 中来，自动帮您压缩冗余告警，避免告警风暴，让您更快定位和解决问题。配置步骤一、 webhook配置方式链接1、填写应用名称，点击保存生成Ap..."
+      },
+      "catalog": [
+        {
+          "title": "告警使用手册",
+          "doc_id": "olhr7mne717k5iw3"
+        },
+        {
+          "title": "告警源集成说明",
+          "doc_id": "olhr7mne717k5iw3"
+        }
+      ],
+      "realName": "Zabbix",
+      "relativePath": "\\告警使用手册\\告警源集成说明\\Zabbix.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\告警使用手册\\告警源集成说明"
+    },
+    {
+      "id": 182219811,
+      "doc_id": "panrzdyq5fctngun",
+      "updated": 1729070103000,
+      "properties": {
+        "title": "OceanBase",
+        "urlname": "panrzdyq5fctngun",
+        "date": "2024-08-14 16:10:40",
+        "updated": "2024-10-16 17:15:03",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/43776455/1724730676736-5ca7529d-3c4a-4368-b7e7-9bd8ca806a6d.png",
+        "description": "OceanBase 数据库是一款完全自研的企业级原生分布式数据库，在普通硬件上实现金融级高可用，首创“三地五中心”城市级故障自动无损容灾新标准，刷新 TPC-C 标准测试，单集群规模超过 1500 节点，具有云原生、强一致性、高度兼容 Oracle/MySQL 等特性。可以将 OceanBas..."
+      },
+      "catalog": [
+        {
+          "title": "告警使用手册",
+          "doc_id": "panrzdyq5fctngun"
+        },
+        {
+          "title": "告警源集成说明",
+          "doc_id": "panrzdyq5fctngun"
+        }
+      ],
+      "realName": "OceanBase",
+      "relativePath": "\\告警使用手册\\告警源集成说明\\OceanBase.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\告警使用手册\\告警源集成说明"
+    },
+    {
+      "id": 183522010,
+      "doc_id": "dxvddcxhfrte5shs",
+      "updated": 1726730282000,
+      "properties": {
+        "title": "快速建立AI+数据库",
+        "urlname": "dxvddcxhfrte5shs",
+        "date": "2024-08-23 14:33:48",
+        "updated": "2024-09-19 15:18:02",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/42381434/1726713907759-4d5a23ba-74d6-497d-a040-d52dc9126a5e.png",
+        "description": "第一步：规则配置访问 AiOps 系统，点击 AI+数据库 -&gt;规则配置如下图所示：点击新建按照要求自定义规范内容第二步：规则组配置点击规则组创建组把相关的规则组合起来，便于管理和应用。第三步：实例配置点击实例列表创建数据库实例连接，配置完成后点击测试验证。注意事项：通过隧道连接需提前SSH配..."
+      },
+      "catalog": [
+        {
+          "title": "快速入门",
+          "doc_id": "dxvddcxhfrte5shs"
+        }
+      ],
+      "realName": "快速建立AI+数据库",
+      "relativePath": "\\快速入门\\快速建立AI+数据库.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\快速入门"
+    },
+    {
+      "id": 183523661,
+      "doc_id": "yqi0pe5l1b8yle3r",
+      "updated": 1726714521000,
+      "properties": {
+        "title": "快速建立CICD第一个项目",
+        "urlname": "yqi0pe5l1b8yle3r",
+        "date": "2024-08-23 14:43:58",
+        "updated": "2024-09-19 10:55:21",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/42381434/1724727296903-dd36fb33-29c3-40dd-9e6d-ea39a94a5192.png",
+        "description": "准备工作 （管理员操作）集成代码源  （详情待补充）集成制品仓库 （详情待补充）k8s集群设置 （详情待补充）运行环境模板 （详情待补充）第一步：基础配置访问 AiOps 系统，点击 CI/CD -&gt; 新建按钮，创建项目如下图所示：点击立即新建按钮，进入项目设置选择项目需要关联的代码群组或者指..."
+      },
+      "catalog": [
+        {
+          "title": "快速入门",
+          "doc_id": "yqi0pe5l1b8yle3r"
+        }
+      ],
+      "realName": "快速建立CICD第一个项目",
+      "relativePath": "\\快速入门\\快速建立CICD第一个项目.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\快速入门"
+    },
+    {
+      "id": 182219441,
+      "doc_id": "esbgwguq3ugqpiop",
+      "updated": 1726625214000,
+      "properties": {
+        "title": "Alertmanager",
+        "urlname": "esbgwguq3ugqpiop",
+        "date": "2024-08-14 16:09:17",
+        "updated": "2024-09-18 10:06:54",
+        "description": "AlertManager是一个开源的告警管理工具，主要用于处理来自于监控系统（如Prometheus）的告警。它的设计目标是提供一个统一的告警处理平台，能够集中管理告警的路由、去重、分组和通知等操作。安装 AlertManager应用可以将 Prometheus 中的告警接入到 AI Ops中..."
+      },
+      "catalog": [
+        {
+          "title": "告警使用手册",
+          "doc_id": "esbgwguq3ugqpiop"
+        },
+        {
+          "title": "告警源集成说明",
+          "doc_id": "esbgwguq3ugqpiop"
+        }
+      ],
+      "realName": "Alertmanager",
+      "relativePath": "\\告警使用手册\\告警源集成说明\\Alertmanager.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\告警使用手册\\告警源集成说明"
+    },
+    {
+      "id": 185953989,
+      "doc_id": "fxr765iub53yc7wl",
+      "updated": 1726112792000,
+      "properties": {
+        "title": "VMware",
+        "urlname": "fxr765iub53yc7wl",
+        "date": "2024-09-10 12:16:32",
+        "updated": "2024-09-12 11:46:32",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/43776455/1726047019297-13a8c89a-6338-4648-bdb0-ed0bab35b3bb.png",
+        "description": "vRealize Operations 是 VMware 提供的一个监控和管理平台，专注于虚拟化和云环境的性能、容量和故障管理。它帮助企业在整个 IT 基础架构（包括虚拟化、物理、云）中实现高效管理。vRealize Operations 的核心功能包括：性能监控：实时监控虚拟机、主机、存储、..."
+      },
+      "catalog": [
+        {
+          "title": "告警使用手册",
+          "doc_id": "fxr765iub53yc7wl"
+        },
+        {
+          "title": "告警源集成说明",
+          "doc_id": "fxr765iub53yc7wl"
+        }
+      ],
+      "realName": "VMware",
+      "relativePath": "\\告警使用手册\\告警源集成说明\\VMware.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\告警使用手册\\告警源集成说明"
+    },
+    {
+      "id": 183988815,
+      "doc_id": "pvicpq0gvzaumvg5",
+      "updated": 1725524664000,
+      "properties": {
+        "title": "GitLab集成",
+        "urlname": "pvicpq0gvzaumvg5",
+        "date": "2024-08-27 11:34:57",
+        "updated": "2024-09-05 16:24:24",
+        "description": "本文主要介绍如何集成 GitLab 代码源。目前 AiOps 系统采用  Access Token的方式与 GitLab 进行代码的授权认证请确保 GitLab API 是 v4 版本，推荐使用 GitLab 11.0+ 版本进行集成"
+      },
+      "catalog": [
+        {
+          "title": "系统集成",
+          "doc_id": "pvicpq0gvzaumvg5"
+        },
+        {
+          "title": "代码源",
+          "doc_id": "pvicpq0gvzaumvg5"
+        }
+      ],
+      "realName": "GitLab集成",
+      "relativePath": "\\系统集成\\代码源\\GitLab集成.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\系统集成\\代码源"
+    },
+    {
+      "id": 184489524,
+      "doc_id": "bsbgv0x6m40fx36z",
+      "updated": 1726105653000,
+      "properties": {
+        "title": "服务YAML说明",
+        "urlname": "bsbgv0x6m40fx36z",
+        "date": "2024-08-30 14:47:16",
+        "updated": "2024-09-12 09:47:33",
+        "description": "DeploymentapiVersion: apps/v1 kind: Deployment metadata:   name: example-deployment   labels:     app: example-app spec:   replicas: 3   selector: ..."
+      },
+      "catalog": [
+        {
+          "title": "CICD使用手册",
+          "doc_id": "bsbgv0x6m40fx36z"
+        }
+      ],
+      "realName": "服务YAML说明",
+      "relativePath": "\\CICD使用手册\\服务YAML说明.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\CICD使用手册"
+    },
+    {
+      "id": 184054373,
+      "doc_id": "kfkizgxyprdg9l7a",
+      "updated": 1724758426000,
+      "properties": {
+        "title": "DolphinScheduler",
+        "urlname": "kfkizgxyprdg9l7a",
+        "date": "2024-08-27 19:21:22",
+        "updated": "2024-08-27 19:33:46",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/43776455/1724758129900-b44f1027-5a93-4918-92c3-ff9f17aa2cfe.png",
+        "description": "DolphinScheduler 是一个分布式的易扩展的可视化数据工作流调度系统，旨在解决复杂的任务依赖管理与任务调度问题。它是由Apache孵化并成为顶级项目的一个开源项目，主要用于大数据领域中复杂的数据处理任务的调度和自动化。配置步骤在资产管理-告警源集成 添加WebHook应用， 填写应..."
+      },
+      "catalog": [
+        {
+          "title": "告警使用手册",
+          "doc_id": "kfkizgxyprdg9l7a"
+        },
+        {
+          "title": "告警源集成说明",
+          "doc_id": "kfkizgxyprdg9l7a"
+        }
+      ],
+      "realName": "DolphinScheduler",
+      "relativePath": "\\告警使用手册\\告警源集成说明\\DolphinScheduler.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\告警使用手册\\告警源集成说明"
+    },
+    {
+      "id": 184016130,
+      "doc_id": "st05t5iwaixzo4in",
+      "updated": 1724743440000,
+      "properties": {
+        "title": "WebHook",
+        "urlname": "st05t5iwaixzo4in",
+        "date": "2024-08-27 15:12:21",
+        "updated": "2024-08-27 15:24:00",
+        "description": "在资产管理-告警源集成 添加WebHook应用， 填写应用名称，开启相关配置后，点击保存生成appKey及URL地址 https://aiops.finovy.cn/api/public/alert/webhook/ { appKey }接口实例说明说明接口https://aiops.fino..."
+      },
+      "catalog": [
+        {
+          "title": "告警使用手册",
+          "doc_id": "st05t5iwaixzo4in"
+        },
+        {
+          "title": "告警源集成说明",
+          "doc_id": "st05t5iwaixzo4in"
+        }
+      ],
+      "realName": "WebHook",
+      "relativePath": "\\告警使用手册\\告警源集成说明\\WebHook.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\告警使用手册\\告警源集成说明"
+    },
+    {
+      "id": 183988829,
+      "doc_id": "bxrvq7fdcfyzc1qx",
+      "updated": 1724729712000,
+      "properties": {
+        "title": "简介",
+        "urlname": "bxrvq7fdcfyzc1qx",
+        "date": "2024-08-27 11:35:00",
+        "updated": "2024-08-27 11:35:12"
+      },
+      "catalog": [
+        {
+          "title": "系统集成",
+          "doc_id": "bxrvq7fdcfyzc1qx"
+        },
+        {
+          "title": "代码源",
+          "doc_id": "bxrvq7fdcfyzc1qx"
+        }
+      ],
+      "realName": "简介",
+      "relativePath": "\\系统集成\\代码源\\简介.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\系统集成\\代码源"
+    },
+    {
+      "id": 183988612,
+      "doc_id": "zwx7mwoqppvah5k5",
+      "updated": 1724729636000,
+      "properties": {
+        "title": "代码源",
+        "urlname": "zwx7mwoqppvah5k5",
+        "date": "2024-08-27 11:33:40",
+        "updated": "2024-08-27 11:33:56"
+      },
+      "catalog": [
+        {
+          "title": "系统集成",
+          "doc_id": "zwx7mwoqppvah5k5"
+        }
+      ],
+      "realName": "代码源",
+      "relativePath": "\\系统集成\\代码源.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\系统集成"
+    },
+    {
+      "id": 183522019,
+      "doc_id": "hoioin1214q3608e",
+      "updated": 1724726973000,
+      "properties": {
+        "title": "快速建立告警管理",
+        "urlname": "hoioin1214q3608e",
+        "date": "2024-08-23 14:33:50",
+        "updated": "2024-08-27 10:49:33",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/42381434/1724400038080-0e58f2e0-7667-4daf-9d0c-d9c3dfc523f4.png",
+        "description": "创建 应用，集成告警告警源集成AlertManagerZabbixSkyWalkingUptime KumaOceanBase创建分派策略、指定处理人、通知方式分派条件选择已建应用；根据告警级别、告警内容设置分派条件。条件支持：等于、不等于、在列表中、不在列表中，均为正则匹配；支持配置多个且/..."
+      },
+      "catalog": [
+        {
+          "title": "快速入门",
+          "doc_id": "hoioin1214q3608e"
+        }
+      ],
+      "realName": "快速建立告警管理",
+      "relativePath": "\\快速入门\\快速建立告警管理.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\快速入门"
+    },
+    {
+      "id": 183524480,
+      "doc_id": "nnm34geoilx5khyg",
+      "updated": 1724395789000,
+      "properties": {
+        "title": "系统集成",
+        "urlname": "nnm34geoilx5khyg",
+        "date": "2024-08-23 14:49:23",
+        "updated": "2024-08-23 14:49:49"
+      },
+      "catalog": [],
+      "realName": "系统集成",
+      "relativePath": "\\系统集成.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops"
+    },
+    {
+      "id": 183522568,
+      "doc_id": "espwutzgws4ql266",
+      "updated": 1724395052000,
+      "properties": {
+        "title": "产品架构",
+        "urlname": "espwutzgws4ql266",
+        "date": "2024-08-23 14:37:22",
+        "updated": "2024-08-23 14:37:32"
+      },
+      "catalog": [
+        {
+          "title": "产品简介",
+          "doc_id": "espwutzgws4ql266"
+        }
+      ],
+      "realName": "产品架构",
+      "relativePath": "\\产品简介\\产品架构.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\产品简介"
+    },
+    {
+      "id": 183522211,
+      "doc_id": "hglkikfrca6r15rx",
+      "updated": 1724729245000,
+      "properties": {
+        "title": "版本发布",
+        "urlname": "hglkikfrca6r15rx",
+        "date": "2024-08-23 14:35:06",
+        "updated": "2024-08-27 11:27:25"
+      },
+      "catalog": [],
+      "realName": "版本发布",
+      "relativePath": "\\版本发布.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops"
+    },
+    {
+      "id": 183522543,
+      "doc_id": "lfcoyfc9gtxc9xi8",
+      "updated": 1724395037000,
+      "properties": {
+        "title": "功能特性",
+        "urlname": "lfcoyfc9gtxc9xi8",
+        "date": "2024-08-23 14:37:09",
+        "updated": "2024-08-23 14:37:17"
+      },
+      "catalog": [
+        {
+          "title": "产品简介",
+          "doc_id": "lfcoyfc9gtxc9xi8"
+        }
+      ],
+      "realName": "功能特性",
+      "relativePath": "\\产品简介\\功能特性.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\产品简介"
+    },
+    {
+      "id": 183522442,
+      "doc_id": "igxg90fov8cl04uu",
+      "updated": 1724395020000,
+      "properties": {
+        "title": "什么是AiOps平台",
+        "urlname": "igxg90fov8cl04uu",
+        "date": "2024-08-23 14:36:35",
+        "updated": "2024-08-23 14:37:00"
+      },
+      "catalog": [
+        {
+          "title": "产品简介",
+          "doc_id": "igxg90fov8cl04uu"
+        }
+      ],
+      "realName": "什么是AiOps平台",
+      "relativePath": "\\产品简介\\什么是AiOps平台.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\产品简介"
+    },
+    {
+      "id": 183521999,
+      "doc_id": "pz34g8k5zzmtgxck",
+      "updated": 1724394825000,
+      "properties": {
+        "title": "无标题文档",
+        "urlname": "pz34g8k5zzmtgxck",
+        "date": "2024-08-23 14:33:45",
+        "updated": "2024-08-23 14:33:45"
+      },
+      "catalog": [
+        {
+          "title": "快速入门",
+          "doc_id": "pz34g8k5zzmtgxck"
+        }
+      ],
+      "realName": "无标题文档",
+      "relativePath": "\\快速入门\\无标题文档.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\快速入门"
+    },
+    {
+      "id": 183358543,
+      "doc_id": "sknyov164cra83fg",
+      "updated": 1725003797000,
+      "properties": {
+        "title": "产品简介",
+        "urlname": "sknyov164cra83fg",
+        "date": "2024-08-22 12:31:00",
+        "updated": "2024-08-30 15:43:17",
+        "description": "Finovy AiOps 是一款智能运维平台，旨在通过自动化和智能化手段提升软件开发和运维效率。我们的解决方案集成了从代码提交到生产部署的每一个环节。通过自动化CI/CD流程、代码质量检测、Kubernetes部署以及灵活的告警机制，帮助团队实现高效协作和快速软件交付。核心特性：多服务并发工作..."
+      },
+      "catalog": [],
+      "realName": "产品简介",
+      "relativePath": "\\产品简介.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops"
+    },
+    {
+      "id": 183506937,
+      "doc_id": "ulls5uhooetn0ho9",
+      "updated": 1724386966000,
+      "properties": {
+        "title": "DB GPT使用手册",
+        "urlname": "ulls5uhooetn0ho9",
+        "date": "2024-08-23 12:21:41",
+        "updated": "2024-08-23 12:22:46"
+      },
+      "catalog": [],
+      "realName": "DB GPT使用手册",
+      "relativePath": "\\DB GPT使用手册.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops"
+    },
+    {
+      "id": 183506898,
+      "doc_id": "ih3x4oaaowktfuye",
+      "updated": 1724386893000,
+      "properties": {
+        "title": "CICD使用手册",
+        "urlname": "ih3x4oaaowktfuye",
+        "date": "2024-08-23 12:21:16",
+        "updated": "2024-08-23 12:21:33"
+      },
+      "catalog": [],
+      "realName": "CICD使用手册",
+      "relativePath": "\\CICD使用手册.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops"
+    },
+    {
+      "id": 183506662,
+      "doc_id": "rzag9ckrco8czmgd",
+      "updated": 1724386845000,
+      "properties": {
+        "title": "告警使用手册",
+        "urlname": "rzag9ckrco8czmgd",
+        "date": "2024-08-23 12:18:56",
+        "updated": "2024-08-23 12:20:45"
+      },
+      "catalog": [],
+      "realName": "告警使用手册",
+      "relativePath": "\\告警使用手册.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops"
+    },
+    {
+      "id": 183506483,
+      "doc_id": "xwt02vwbcno6htg0",
+      "updated": 1724386633000,
+      "properties": {
+        "title": "常见问题",
+        "urlname": "xwt02vwbcno6htg0",
+        "date": "2024-08-23 12:17:02",
+        "updated": "2024-08-23 12:17:13"
+      },
+      "catalog": [],
+      "realName": "常见问题",
+      "relativePath": "\\常见问题.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops"
+    },
+    {
+      "id": 183506186,
+      "doc_id": "zr5ggbgaq1xi2658",
+      "updated": 1724386359000,
+      "properties": {
+        "title": "快速入门",
+        "urlname": "zr5ggbgaq1xi2658",
+        "date": "2024-08-23 12:12:24",
+        "updated": "2024-08-23 12:12:39"
+      },
+      "catalog": [],
+      "realName": "快速入门",
+      "relativePath": "\\快速入门.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops"
+    },
+    {
+      "id": 182218032,
+      "doc_id": "bgvlf1pwgghr7a0z",
+      "updated": 1723825380000,
+      "properties": {
+        "title": "SkyWalking",
+        "urlname": "bgvlf1pwgghr7a0z",
+        "date": "2024-08-14 16:04:25",
+        "updated": "2024-08-17 00:23:00",
+        "description": "配置步骤一、在SkyWalking中配置Webhook URL1、在资产管理-告警源集成 添加SkyWalking应用， 填写应用名称，开启相关配置后，点击保存生成appKey及URL地址 https://aiops.finovy.cn/api/public/alert/skywalking/..."
+      },
+      "catalog": [
+        {
+          "title": "告警使用手册",
+          "doc_id": "bgvlf1pwgghr7a0z"
+        },
+        {
+          "title": "告警源集成说明",
+          "doc_id": "bgvlf1pwgghr7a0z"
+        }
+      ],
+      "realName": "SkyWalking",
+      "relativePath": "\\告警使用手册\\告警源集成说明\\SkyWalking.md",
+      "docPath": "demo-docs\\zh\\guide\\aiops\\告警使用手册\\告警源集成说明"
+    }
+  ],
+  "catalog": [
+    {
+      "type": "DOC",
+      "title": "产品简介",
+      "uuid": "f2vRs8WcBiyfHzrJ",
+      "url": "sknyov164cra83fg",
+      "prev_uuid": "",
+      "sibling_uuid": "viONZ0wCLAOExOQq",
+      "child_uuid": "NVl4I0wMv48IV8Un",
+      "parent_uuid": "",
+      "doc_id": 183358543,
+      "level": 0,
+      "id": 183358543,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "什么是AiOps平台",
+      "uuid": "NVl4I0wMv48IV8Un",
+      "url": "igxg90fov8cl04uu",
+      "prev_uuid": "f2vRs8WcBiyfHzrJ",
+      "sibling_uuid": "Lpk8MBP_WfXnLhF1",
+      "child_uuid": "",
+      "parent_uuid": "f2vRs8WcBiyfHzrJ",
+      "doc_id": 183522442,
+      "level": 1,
+      "id": 183522442,
+      "open_window": 1,
+      "visible": 0
+    },
+    {
+      "type": "DOC",
+      "title": "产品架构",
+      "uuid": "Lpk8MBP_WfXnLhF1",
+      "url": "espwutzgws4ql266",
+      "prev_uuid": "NVl4I0wMv48IV8Un",
+      "sibling_uuid": "Ur0J2PD9aBuVsXco",
+      "child_uuid": "",
+      "parent_uuid": "f2vRs8WcBiyfHzrJ",
+      "doc_id": 183522568,
+      "level": 1,
+      "id": 183522568,
+      "open_window": 1,
+      "visible": 0
+    },
+    {
+      "type": "DOC",
+      "title": "功能特性",
+      "uuid": "Ur0J2PD9aBuVsXco",
+      "url": "lfcoyfc9gtxc9xi8",
+      "prev_uuid": "Lpk8MBP_WfXnLhF1",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "f2vRs8WcBiyfHzrJ",
+      "doc_id": 183522543,
+      "level": 1,
+      "id": 183522543,
+      "open_window": 1,
+      "visible": 0
+    },
+    {
+      "type": "DOC",
+      "title": "快速入门",
+      "uuid": "viONZ0wCLAOExOQq",
+      "url": "zr5ggbgaq1xi2658",
+      "prev_uuid": "f2vRs8WcBiyfHzrJ",
+      "sibling_uuid": "mm2d_7D-N0gc8UVh",
+      "child_uuid": "PNOmkzUE8g7BJCjE",
+      "parent_uuid": "",
+      "doc_id": 183506186,
+      "level": 0,
+      "id": 183506186,
+      "open_window": 1,
+      "visible": 0
+    },
+    {
+      "type": "DOC",
+      "title": "快速建立CICD第一个项目",
+      "uuid": "PNOmkzUE8g7BJCjE",
+      "url": "yqi0pe5l1b8yle3r",
+      "prev_uuid": "viONZ0wCLAOExOQq",
+      "sibling_uuid": "pNrU_2C4JJcKsSLS",
+      "child_uuid": "",
+      "parent_uuid": "viONZ0wCLAOExOQq",
+      "doc_id": 183523661,
+      "level": 1,
+      "id": 183523661,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "快速建立告警管理",
+      "uuid": "pNrU_2C4JJcKsSLS",
+      "url": "hoioin1214q3608e",
+      "prev_uuid": "PNOmkzUE8g7BJCjE",
+      "sibling_uuid": "9Sk_T7QzJijugx4Q",
+      "child_uuid": "",
+      "parent_uuid": "viONZ0wCLAOExOQq",
+      "doc_id": 183522019,
+      "level": 1,
+      "id": 183522019,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "快速建立AI+数据库",
+      "uuid": "9Sk_T7QzJijugx4Q",
+      "url": "dxvddcxhfrte5shs",
+      "prev_uuid": "pNrU_2C4JJcKsSLS",
+      "sibling_uuid": "wRXf0EXP9u6tb7bu",
+      "child_uuid": "",
+      "parent_uuid": "viONZ0wCLAOExOQq",
+      "doc_id": 183522010,
+      "level": 1,
+      "id": 183522010,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "无标题文档",
+      "uuid": "wRXf0EXP9u6tb7bu",
+      "url": "pz34g8k5zzmtgxck",
+      "prev_uuid": "9Sk_T7QzJijugx4Q",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "viONZ0wCLAOExOQq",
+      "doc_id": 183521999,
+      "level": 1,
+      "id": 183521999,
+      "open_window": 1,
+      "visible": 0
+    },
+    {
+      "type": "DOC",
+      "title": "告警使用手册",
+      "uuid": "mm2d_7D-N0gc8UVh",
+      "url": "rzag9ckrco8czmgd",
+      "prev_uuid": "viONZ0wCLAOExOQq",
+      "sibling_uuid": "ttKBNalK0rqaVb-6",
+      "child_uuid": "dPKf3L8q_vT2_5yE",
+      "parent_uuid": "",
+      "doc_id": 183506662,
+      "level": 0,
+      "id": 183506662,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "告警管理使用手册",
+      "uuid": "dPKf3L8q_vT2_5yE",
+      "url": "vrv9bohi6q5gsok3",
+      "prev_uuid": "mm2d_7D-N0gc8UVh",
+      "sibling_uuid": "LiLhVwMf1ovBRR6d",
+      "child_uuid": "",
+      "parent_uuid": "mm2d_7D-N0gc8UVh",
+      "doc_id": 184037924,
+      "level": 1,
+      "id": 184037924,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "告警源集成说明",
+      "uuid": "LiLhVwMf1ovBRR6d",
+      "url": "",
+      "prev_uuid": "dPKf3L8q_vT2_5yE",
+      "sibling_uuid": "",
+      "child_uuid": "4mQxOp0pk3UDmIpH",
+      "parent_uuid": "mm2d_7D-N0gc8UVh",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "VMware",
+      "uuid": "4mQxOp0pk3UDmIpH",
+      "url": "fxr765iub53yc7wl",
+      "prev_uuid": "LiLhVwMf1ovBRR6d",
+      "sibling_uuid": "qifGL9lXTmTxGerg",
+      "child_uuid": "",
+      "parent_uuid": "LiLhVwMf1ovBRR6d",
+      "doc_id": 185953989,
+      "level": 2,
+      "id": 185953989,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "DolphinScheduler",
+      "uuid": "qifGL9lXTmTxGerg",
+      "url": "kfkizgxyprdg9l7a",
+      "prev_uuid": "4mQxOp0pk3UDmIpH",
+      "sibling_uuid": "_f2mKmv0pPUPvIts",
+      "child_uuid": "",
+      "parent_uuid": "LiLhVwMf1ovBRR6d",
+      "doc_id": 184054373,
+      "level": 2,
+      "id": 184054373,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "WebHook",
+      "uuid": "_f2mKmv0pPUPvIts",
+      "url": "st05t5iwaixzo4in",
+      "prev_uuid": "qifGL9lXTmTxGerg",
+      "sibling_uuid": "u0ND7UKdDQIM1o1j",
+      "child_uuid": "",
+      "parent_uuid": "LiLhVwMf1ovBRR6d",
+      "doc_id": 184016130,
+      "level": 2,
+      "id": 184016130,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "OceanBase",
+      "uuid": "u0ND7UKdDQIM1o1j",
+      "url": "panrzdyq5fctngun",
+      "prev_uuid": "_f2mKmv0pPUPvIts",
+      "sibling_uuid": "Ym-X8aTZZR8jxF0a",
+      "child_uuid": "",
+      "parent_uuid": "LiLhVwMf1ovBRR6d",
+      "doc_id": 182219811,
+      "level": 2,
+      "id": 182219811,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Uptime Kuma",
+      "uuid": "Ym-X8aTZZR8jxF0a",
+      "url": "sff2ciq0f0kar0ik",
+      "prev_uuid": "u0ND7UKdDQIM1o1j",
+      "sibling_uuid": "93xBwnl4GKQ4iYms",
+      "child_uuid": "",
+      "parent_uuid": "LiLhVwMf1ovBRR6d",
+      "doc_id": 182219709,
+      "level": 2,
+      "id": 182219709,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Alertmanager",
+      "uuid": "93xBwnl4GKQ4iYms",
+      "url": "esbgwguq3ugqpiop",
+      "prev_uuid": "Ym-X8aTZZR8jxF0a",
+      "sibling_uuid": "wkpown7q6rCx11ee",
+      "child_uuid": "",
+      "parent_uuid": "LiLhVwMf1ovBRR6d",
+      "doc_id": 182219441,
+      "level": 2,
+      "id": 182219441,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Zabbix",
+      "uuid": "wkpown7q6rCx11ee",
+      "url": "olhr7mne717k5iw3",
+      "prev_uuid": "93xBwnl4GKQ4iYms",
+      "sibling_uuid": "vPc1PM8sHNQ4ps25",
+      "child_uuid": "",
+      "parent_uuid": "LiLhVwMf1ovBRR6d",
+      "doc_id": 182219410,
+      "level": 2,
+      "id": 182219410,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "SkyWalking",
+      "uuid": "vPc1PM8sHNQ4ps25",
+      "url": "bgvlf1pwgghr7a0z",
+      "prev_uuid": "wkpown7q6rCx11ee",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "LiLhVwMf1ovBRR6d",
+      "doc_id": 182218032,
+      "level": 2,
+      "id": 182218032,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "CICD使用手册",
+      "uuid": "ttKBNalK0rqaVb-6",
+      "url": "ih3x4oaaowktfuye",
+      "prev_uuid": "mm2d_7D-N0gc8UVh",
+      "sibling_uuid": "nPxoX5uWic52URKZ",
+      "child_uuid": "sjrPvWDTljgD7caW",
+      "parent_uuid": "",
+      "doc_id": 183506898,
+      "level": 0,
+      "id": 183506898,
+      "open_window": 1,
+      "visible": 0
+    },
+    {
+      "type": "DOC",
+      "title": "服务YAML说明",
+      "uuid": "sjrPvWDTljgD7caW",
+      "url": "bsbgv0x6m40fx36z",
+      "prev_uuid": "ttKBNalK0rqaVb-6",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "ttKBNalK0rqaVb-6",
+      "doc_id": 184489524,
+      "level": 1,
+      "id": 184489524,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "DB GPT使用手册",
+      "uuid": "nPxoX5uWic52URKZ",
+      "url": "ulls5uhooetn0ho9",
+      "prev_uuid": "ttKBNalK0rqaVb-6",
+      "sibling_uuid": "RRxwjEp0skIkXbql",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 183506937,
+      "level": 0,
+      "id": 183506937,
+      "open_window": 1,
+      "visible": 0
+    },
+    {
+      "type": "DOC",
+      "title": "系统集成",
+      "uuid": "RRxwjEp0skIkXbql",
+      "url": "nnm34geoilx5khyg",
+      "prev_uuid": "nPxoX5uWic52URKZ",
+      "sibling_uuid": "qq4oaopuML3qVK4Y",
+      "child_uuid": "nwM98Agwg_qsD7TJ",
+      "parent_uuid": "",
+      "doc_id": 183524480,
+      "level": 0,
+      "id": 183524480,
+      "open_window": 1,
+      "visible": 0
+    },
+    {
+      "type": "DOC",
+      "title": "代码源",
+      "uuid": "nwM98Agwg_qsD7TJ",
+      "url": "zwx7mwoqppvah5k5",
+      "prev_uuid": "RRxwjEp0skIkXbql",
+      "sibling_uuid": "",
+      "child_uuid": "i5wuClb0GW6fIqI9",
+      "parent_uuid": "RRxwjEp0skIkXbql",
+      "doc_id": 183988612,
+      "level": 1,
+      "id": 183988612,
+      "open_window": 1,
+      "visible": 0
+    },
+    {
+      "type": "DOC",
+      "title": "简介",
+      "uuid": "i5wuClb0GW6fIqI9",
+      "url": "bxrvq7fdcfyzc1qx",
+      "prev_uuid": "nwM98Agwg_qsD7TJ",
+      "sibling_uuid": "NHeZhCQXcweUyR7l",
+      "child_uuid": "",
+      "parent_uuid": "nwM98Agwg_qsD7TJ",
+      "doc_id": 183988829,
+      "level": 2,
+      "id": 183988829,
+      "open_window": 1,
+      "visible": 0
+    },
+    {
+      "type": "DOC",
+      "title": "GitLab集成",
+      "uuid": "NHeZhCQXcweUyR7l",
+      "url": "pvicpq0gvzaumvg5",
+      "prev_uuid": "i5wuClb0GW6fIqI9",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "nwM98Agwg_qsD7TJ",
+      "doc_id": 183988815,
+      "level": 2,
+      "id": 183988815,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "常见问题",
+      "uuid": "qq4oaopuML3qVK4Y",
+      "url": "xwt02vwbcno6htg0",
+      "prev_uuid": "RRxwjEp0skIkXbql",
+      "sibling_uuid": "gba43qmPQvOV_ieD",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 183506483,
+      "level": 0,
+      "id": 183506483,
+      "open_window": 1,
+      "visible": 0
+    },
+    {
+      "type": "DOC",
+      "title": "版本发布",
+      "uuid": "gba43qmPQvOV_ieD",
+      "url": "hglkikfrca6r15rx",
+      "prev_uuid": "qq4oaopuML3qVK4Y",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 183522211,
+      "level": 0,
+      "id": 183522211,
+      "open_window": 1,
+      "visible": 0
+    }
+  ]
+}

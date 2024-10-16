@@ -1,0 +1,26 @@
+workloads:
+  - dataCenter: gx
+    cluster: bl-devops-dev
+    namespace: devops-system
+    name: aiops-docs
+    image: finovy-ci/aiops-docs
+    branches:
+      - dev
+    benchmarkEnable: false
+configs:
+  - dataCenter: gx
+    cluster: bl-devops-dev
+    namespace: devops-system
+    name: aiops-docs
+    scale: 1
+    environment:
+      NODE_ENV: production
+    ports:
+      - {
+          containerPort: 80,
+          hostPort: 0,
+          kind: ClusterIP,
+          name: 80tcp02,
+          protocol: TCP,
+          sourcePort: 0,
+        }

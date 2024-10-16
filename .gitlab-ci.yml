@@ -1,0 +1,13 @@
+include:
+  - project: "p-common/gitlab-runner-docker"
+    ref: cicd
+    file: ".gitlab-ci-included-web.yml"
+
+variables:
+  extends: .variables_template_web
+  MODULES_VERSION: 0.1.0
+  REGISTRY_USER_VAR: "${REGISTRY_USER_LOCAL}"
+  REGISTRY_HOST_VAR: "${REGISTRY_HOST_LOCAL}"
+  REGISTRY_TOKEN_VAR: "${REGISTRY_TOKEN_LOCAL}"
+  SKIP_ANALYSIS: "true"
+
